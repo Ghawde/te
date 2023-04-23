@@ -1,0 +1,12 @@
+1. vm-iaas
+1.1 sql,COSMO DB-paas
+2. bais-10gb  standard-50gb
+3. pay-as-u-go,leasing software,monthly salary=operational model     CapEx=deploying own data centre and electricty 
+4. AI SOL=AZUREMACHINE LEARNING STUDIO
+5. Your company's infrastructure include= Azure Resource Manager 
+6. LOB appl=
+7. VM(window+ubuntu)=dev test lab
+8. various web server+databse=NSG
+9. AAS USE=azure app service and database
+10. Azure App Service is a platform-as-a-service (PaaS) offering that lets you create web and mobile apps for any platform or device and connect to data anywhere
+11. 
